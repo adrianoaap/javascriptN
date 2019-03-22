@@ -14,7 +14,7 @@ soma++;
 soma*=3
 
 // Qual o valor da variável soma até aqui
-57
+72
 
 // Declare a variável 'sou_ninja', atribuindo a ela o valor boolean que representa verdadeiro
 var sou_ninja= true;
