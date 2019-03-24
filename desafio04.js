@@ -103,7 +103,7 @@ carro.adcionarPessoas = function (numeroPessoas) {
         return 'so cabem mais ' + qtdePessoasCabem + ' ' + plurasOuSingular + '!';
     }
     carro.qtdePessoas += numeroPessoas; 
-    return 'Já temos ' + totalPessoas + ' pessoas no carro!';
+    return 'Já temos ' + carro.qtdePessoas + ' pessoas no carro!';
 }
 
 // Adcione 2 pessoas no carro
