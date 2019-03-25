@@ -83,3 +83,6 @@ function convertToHex(cor) {
     return 'O hexadecimal para a ' + cor + ' é ' + hexa;
 
 }
+
+
+   
